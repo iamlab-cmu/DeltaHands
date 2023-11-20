@@ -13,3 +13,17 @@ Python code includes Delta robots' and hands' [kinematics](https://github.com/ia
 
 ## Teleoperation
 [Teleoperation](https://github.com/iamlab-cmu/DeltaHands/blob/main/Teleoperation/realtime_teleop_viz.py) based on leap motion camera.
+
+## License
+DELTAHANDS is licensed under [MIT license](LICENSE).
+
+## Cite DELTAHANDS
+If you use DELTAHANDS in your research, please cite:
+```BibTeX
+@article{si2023deltahands,
+  title={DELTAHANDS: A Synergistic Dexterous Hand Framework Based on Delta Robots},
+  author={Si, Zilin and Zhang, Kevin and Kroemer, Oliver and Temel, F Zeynep},
+  journal={arXiv preprint arXiv:2310.05266},
+  year={2023}
+}
+```
