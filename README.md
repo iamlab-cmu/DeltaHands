@@ -27,7 +27,7 @@ Arduino code includes the communication between 1) the [DeltaHand](https://githu
 [Teleoperation](https://github.com/iamlab-cmu/DeltaHands/blob/main/Teleoperation/telehand_teleop.py) based on the kinematic twin interface, TeleHand.
 
 ### Imitation learning for dexterous in-hand manipulation
-Learning framework is built base on [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/). [Data preprocessing](https://github.com/iamlab-cmu/DeltaHands/blob/main/Manipulation/data_processing/rosbag2pkl.py), [training](https://github.com/iamlab-cmu/DeltaHands/blob/main/Manipulation/training.ipynb) and [inference]((https://github.com/iamlab-cmu/DeltaHands/blob/main/Manipulation/inference_dagger.py)) code are included.
+Learning framework is built base on [Diffusion Policy](https://diffusion-policy.cs.columbia.edu/). [Data preprocessing](https://github.com/iamlab-cmu/DeltaHands/blob/main/Manipulation/data_processing/rosbag2pkl.py), [training](https://github.com/iamlab-cmu/DeltaHands/blob/main/Manipulation/training.ipynb) and [inference](https://github.com/iamlab-cmu/DeltaHands/blob/main/Manipulation/inference_dagger.py) code are included.
 
 
 ## License
